@@ -1,15 +1,46 @@
-<div class="menu">
-
-        <img src="../images/logo.png" alt="logo">
-        <ul>
-            <li><a href="">CCAAS</a></li>
-            <li><a href="">PASTORES</a></li>
-            <li><a href="">VISIÓN</a></li>
-            <li><a href="">CASAS DE PAZ</a></li>
-            <li><a href="">RECURSOS</a></li>
-        </ul>
-</div>
-
+<div class="page-wrap">
+      <div class="nav-style">
+        <div class="mobile-view">
+          <div class="mobile-view-header">
+            <div class="mobile-view-close">
+              <i class="fas fa-times js-toggle"></i>
+            </div>
+          </div>
+          <div class="mobile-view-body"></div>
+        </div>
+ 
+        <nav class="navbar navbar-expand-lg navbar-dark ">
+          <div class="container py-2 px-2">
+            <a class="navbar-brand" href="#">CCAAS</a>
+ 
+            <div class="d-inline-block d-lg-none ml-md-0 ml-auto py-3">
+              <i class="fas fa-bars js-toggle" style="font-size: 25px; color: white"></i>
+            </div>
+ 
+            <div class="d-none d-lg-block">
+              <ul class="navbar-nav ml-auto js-clone-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">CCAAS</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Visión</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Pastores</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Recursos</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Contáctanos</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+<!-- <img src="../images/logo.png" alt="logo"> -->
 <div class="primera-vista">
     <div class="bienvenida">
         <div class="titulo-bienvenida">
